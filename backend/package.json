@@ -1,0 +1,25 @@
+{
+  "name": "normal-or-app-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "json": "^11.0.0",
+    "moment-timezone": "^0.5.45",
+    "mongoose": "^8.5.4",
+    "node-cron": "^3.0.3",
+    "normal_or_app": "file:",
+    "normal-or-app-backend": "file:",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
